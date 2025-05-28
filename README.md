@@ -60,7 +60,7 @@ src/
 2. 默认管理员账号：abo/abo
 3. 访问地址：http://localhost:8080/springboot0e3m2/admin/dist/index.html
 4. 推荐使用Chrome浏览器访问
-
+```
 # 项目实际截图：
 
 ## 后台：
